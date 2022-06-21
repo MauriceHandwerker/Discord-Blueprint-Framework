@@ -16,9 +16,7 @@ It works in every language and every Discord Bot available.
 [6. Chanals](CHANALS.md)\
 [7. Roles](ROLES.md)\
 [8. Permissions](PERMISSIONS.md)\
-[9. Text](TEXT.md)\
-[10. Voice](VOICE.md)\
-[11. Bots](BOTS.md)
+[9. Bots](BOTS.md)
 
 ### Demo
 ```
