@@ -22,7 +22,7 @@ It works in every language and every Discord Bot available.
 
 ### Demo
 ```
-$$ #0001
+$$ project demo
 
 ROLES = {
 	/ Owner	[ All; light red ]
