@@ -6,17 +6,32 @@ DBF aka. Discord Blueprint Framework is a simple way to discribe a Discord serve
 Its really easy to read and understand so that you can easily plan and build a Discord server with your friends, colligues or clup members.
 It works in every language and every Discord Bot available.
 
+---
 
 ### Content
 [1. Why DBF ?](#why-dbf)\
 [2. Content](#content)\
-[3. Demo](#demo)\
-[4. Structure](STRUCTURE.md)\
-[5. Categories](CATEGORIES.md)\
-[6. Chanals](CHANALS.md)\
-[7. Roles](ROLES.md)\
-[8. Permissions](PERMISSIONS.md)\
-[9. Bots](BOTS.md)
+[3. TODO](#todo)\
+[4. Demo](#demo)\
+[5. Structure](STRUCTURE.md)\
+[6. Categories](CATEGORIES.md)\
+[7. Chanals](CHANALS.md)\
+[8. Roles](ROLES.md)\
+[9. Permissions](PERMISSIONS.md)\
+[10. Bots](BOTS.md)
+
+---
+
+### TODO
+- [x] Structure Doc
+- [ ] Categories Doc
+- [ ] Chanals Doc
+- [ ] Roles Doc
+- [ ] Permissions Doc
+- [ ] Bots Doc
+
+
+---
 
 ### Demo
 ```
@@ -76,3 +91,4 @@ SERVER = [ Support System, ProBot ]{
 	
 }
 ```
+---
