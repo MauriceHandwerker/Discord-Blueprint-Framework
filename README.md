@@ -13,12 +13,12 @@ It works in every language and every Discord Bot available.
 [2. Content](#content)\
 [3. TODO](#todo)\
 [4. Demo](#demo)\
-[5. Structure](STRUCTURE.md)\
-[6. Categories](CATEGORIES.md)\
-[7. Chanals](CHANALS.md)\
-[8. Roles](ROLES.md)\
-[9. Permissions](PERMISSIONS.md)\
-[10. Bots](BOTS.md)
+[5. Structure](Docs/STRUCTURE.md)\
+[6. Categories](Docs/CATEGORIES.md)\
+[7. Chanals](Docs/CHANALS.md)\
+[8. Roles](Docs/ROLES.md)\
+[9. Permissions](Docs/PERMISSIONS.md)\
+[10. Bots](Docs/BOTS.md)
 
 ---
 
